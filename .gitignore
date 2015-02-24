@@ -1,3 +1,4 @@
 *.pyc
 *.so
-
+snippets/migrations/*
+*.sqlite3
